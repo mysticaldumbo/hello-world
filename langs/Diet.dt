@@ -1,0 +1,7 @@
+//- Diet is a minimalistic templating language primarily used with the Diet.js framework for building web applications in Node.js.
+
+html
+  head
+    title Hello, World!
+  body
+    p Hello, World!

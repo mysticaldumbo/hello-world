@@ -1,0 +1,7 @@
+// chatgpt wouldnt say what the language was about cause it didnt know it even existed so uh its basically just d but better
+
+import std.stdio;
+
+void main() {
+    writeln("Hello, World!");
+}
