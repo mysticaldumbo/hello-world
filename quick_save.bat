@@ -1,3 +1,4 @@
+REM quick save for git
 cls
 @echo off
 git add .
