@@ -1,0 +1,17 @@
+<!-- EJS (Embedded JavaScript) is a templating language that lets you embed JavaScript within HTML templates. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EJS Example</title>
+</head>
+<body>
+    <h1><%= title %></h1>
+    <ul>
+        <% for (var i = 0; i < items.length; i++) { %>
+            <li><%= items[i] %></li>
+        <% } %>
+    </ul>
+</body>
+</html>
