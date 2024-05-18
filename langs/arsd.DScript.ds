@@ -1,0 +1,11 @@
+// arsd.DScript is a dynamic scripting language designed to be embedded into D programs.
+
+import arsd.dscript.DScript;
+
+void main() {
+    // Create a DScript interpreter
+    auto dscript = new DScript();
+
+    // Execute the DScript code to print "Hello, World!"
+    dscript.execute("writeln(\"Hello, World!\");");
+}

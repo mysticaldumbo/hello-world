@@ -1,14 +1,17 @@
 // ActionScript is primarily used for developing rich internet applications and Adobe Flash content.
 
-package {
-    import flash.display.Sprite;
+package com.example
+{
     import flash.text.TextField;
+    import flash.display.Sprite;
 
-    public class HelloWorld extends Sprite {
-        public function HelloWorld() {
-            var textField:TextField = new TextField();
-            textField.text = "Hello, World!";
-            addChild(textField);
+    public class Greeter extends Sprite
+    {
+        public function Greeter()
+        {
+            var txtHello: TextField = new TextField();
+            txtHello.text = "Hello, World!";
+            addParent(txtHello);
         }
     }
 }
