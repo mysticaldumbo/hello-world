@@ -1,0 +1,4 @@
+// Grain is a high-level, statically typed programming language designed for building web applications.
+fn main() {
+    console.log("Hello, World!");
+}
