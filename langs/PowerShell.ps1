@@ -1,4 +1,2 @@
-git add .
-set /p commitMessage="commit message: "
-git commit -m "%commitMessage%"
-git push origin main
+# PowerShell is a task automation and configuration management framework from Microsoft, consisting of a command-line shell and scripting language built on top of the .NET Framework.
+Write-Host "Hello, World!"
