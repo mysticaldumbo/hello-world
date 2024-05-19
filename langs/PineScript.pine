@@ -1,0 +1,3 @@
+//@version=5
+// Pine Script is a domain-specific scripting language used for creating custom technical indicators and strategies on the TradingView platform.
+plot("Hello, World!")
