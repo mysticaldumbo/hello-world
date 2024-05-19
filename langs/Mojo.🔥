@@ -1,0 +1,2 @@
+# MOJO is a modern programming language designed for scientific computing, machine learning, and data science.
+println("Hello, World!")

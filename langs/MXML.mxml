@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml">
+    <!-- MXML is an XML-based user interface markup language used with Adobe Flex and Apache Flex for developing rich internet applications. -->
+    <mx:Label text="Hello, World!" />
+</mx:Application>

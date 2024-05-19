@@ -1,0 +1,10 @@
+<!-- MJML is a markup language designed to simplify the creation of responsive email templates. -->
+<mjml>
+  <mj-body width="500">
+    <mj-section background-color="#F9F">
+      <mj-column>
+        <mj-text font-size="20px">Hello, World!</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
