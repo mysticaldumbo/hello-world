@@ -1,0 +1,2 @@
+// TypeScript is a statically typed superset of JavaScript that compiles to plain JavaScript. It adds optional static typing, classes, interfaces, and other features to JavaScript, making it more scalable and maintainable for large projects.
+console.log("Hello, World!");
