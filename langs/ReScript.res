@@ -1,0 +1,2 @@
+/* ReScript is a strongly typed, functional programming language that compiles to JavaScript. It is designed for building web applications with an emphasis on safety and performance. */
+Js.log("Hello, World!")
